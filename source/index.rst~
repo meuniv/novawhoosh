@@ -1,0 +1,53 @@
+
+.. Nova -- Hello World  documentation master file, created by
+   sphinx-quickstart on Mon Nov 23 16:17:04 2020.
+   You can adapt this file completely to your liking, but it should at least
+   contain the root `toctree` directive.
+
+Welcome to Nova -- Whoosh!
+==========================
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Contents:
+
+   introduction
+   requirement1
+   requirement2
+   requirement3
+   requirement4
+   requirement5
+   requirement6
+   contact
+   
+.. note:: What is **Engineering**?
+	  
+   Engineering is the branch of science and technology concerned with the design, building, and use of engines, machines, and structures.
+
+   Engineering is the application of science and math to solve problems. Engineers figure out how things work and find practical uses for scientific discoveries. Scientists and inventors often get the credit for innovations that advance the human condition, but it is engineers who are instrumental in making those innovations available to the world  (definition adapted from this `website <https://www.livescience.com/47499-what-is-engineering.html>`__.)
+
+   .. figure:: _images/P5BDqJBgzU9FYn9yTAcM2f-1024-80.jpg
+      :width: 400px
+      :align: center
+      :alt: alternate text
+      :figclass: align-center
+   
+      A good engineer is a good problem solver! This requires a good knowledge of math and science, along with creativity! (Image copied from this `website <https://www.livescience.com/47499-what-is-engineering.html>`__.)
+
+
+      There are different types of engineering, and we will discuss more about them in this module. Specialty areas include:
+      
+      * Mechanical engineering 
+      * Electrical engineering 
+      * Civil engineering 
+      * Aerospace engineering 
+      * Nuclear engineering 
+      * Structural engineering
+      * Biomedical engineering 
+      * Computer engineering
+      * Industrial engineering 
+      * Environmental engineering 
+
+
+
+
