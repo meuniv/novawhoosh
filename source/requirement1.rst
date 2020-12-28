@@ -20,7 +20,7 @@ Requirement #1: Research and Reading
    * Industrial engineering 
    * Environmental engineering 
 
-   .. figure:: _images/P5BDqJBgzU9FYn9yTAcM2f-1024-80.jpg
+   .. figure:: _images/P5BDqJBgzU9FYn9yTAcM2f-1024-80.png
       :width: 400px
       :align: center
       :alt: alternate text
