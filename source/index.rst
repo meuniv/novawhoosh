@@ -18,6 +18,7 @@ Welcome to Nova -- Whoosh!
    requirement4
    requirement5
    requirement6
+   Others
    contact
    
 
