@@ -1,4 +1,4 @@
-Requirement #6: Engineering @ life
+Requirement #6: Engineering @ Life
 ++++++++++++++++++++++++++++++++++
 
 :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Discuss with your counselor how engineering affects your everyday life.
