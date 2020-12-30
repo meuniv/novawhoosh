@@ -5,7 +5,7 @@ Requirement #4: Visit
 
 :math:`\boxed{\mathbb{REQ}\Large \rightsquigarrow}` Choose A or B and complete ALL the requirements.
 
-   A. Visit an amusement park. Then discuss the following with your counselor:
+A. Visit an amusement park. Then discuss the following with your counselor:
 
    (1) The simple machines present in at least two of the rides
    (2) The forces involved in the motion of any two rides
